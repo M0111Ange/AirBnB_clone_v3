@@ -155,4 +155,4 @@ No known bugs at this time.
 
 third part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+A Public Domain with no copy write protection. 
